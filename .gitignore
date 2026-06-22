@@ -7,3 +7,4 @@ __pycache__/
 .mcp_skills/
 .mcp_history/
 *.tmp
+.history
